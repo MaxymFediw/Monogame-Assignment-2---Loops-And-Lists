@@ -2,7 +2,7 @@
 using Microsoft.Xna.Framework.Graphics;
 using Microsoft.Xna.Framework.Input;
 
-namespace Monogame_Assignment_2___Loops_And_Lists
+namespace Monogame_Assignment_2___Loops_And_Lists //Maxym F.
 {
     public class Game1 : Game
     {
